@@ -11,3 +11,7 @@ https://www.carbonblack.com/resources/webinars/
 
 https://www.redcanary.com/resources/
 
+https://posts.specterops.io/whats-in-a-name-ttps-in-info-sec-14f24480ddcc
+
+https://blogs.microsoft.com/microsoftsecure/2016/11/28/disrupting-the-kill-chain/
+
