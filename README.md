@@ -1,5 +1,5 @@
 # DerbyCon2017
-Materials from DerbyCon 2017 Talk - Going on a Threat Hunt
+Materials from DerbyCon 2017 Talk - Going on a Threat Hunt -https://www.youtube.com/watch?v=Y2Vif--ixsM&t=64s
 
 https://sqrrl.com/resources/
 
