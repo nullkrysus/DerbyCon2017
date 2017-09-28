@@ -1,6 +1,8 @@
 # DerbyCon2017
 Materials from DerbyCon 2017 Talk - Going on a Threat Hunt -https://www.youtube.com/watch?v=Y2Vif--ixsM&t=64s
 
+https://sqrrl.com/top-3-takeaways-derbycon/ - quick piece by Ryan Nolette @ Sqrrl regarding his DerbyCon experience.
+
 https://sqrrl.com/resources/
 
 https://medium.com/@jshlbrd/threat-hunting-basics-68fb1980cc9b
