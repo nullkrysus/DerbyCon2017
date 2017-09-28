@@ -21,3 +21,5 @@ http://threathunter.guru/blog/the-paris-model/
 
 https://www.redcanary.com/blog/threat-hunting-not-a-magical-unicorn/
 
+https://posts.specterops.io/whats-in-a-name-ttps-in-info-sec-14f24480ddcc
+
