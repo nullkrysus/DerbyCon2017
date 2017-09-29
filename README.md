@@ -25,3 +25,5 @@ https://www.redcanary.com/blog/threat-hunting-not-a-magical-unicorn/
 
 https://posts.specterops.io/whats-in-a-name-ttps-in-info-sec-14f24480ddcc
 
+https://social.technet.microsoft.com/wiki/contents/articles/40242.build-the-attacker-s-playground.aspx
+
