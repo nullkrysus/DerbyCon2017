@@ -29,3 +29,5 @@ https://social.technet.microsoft.com/wiki/contents/articles/40242.build-the-atta
 
 https://www.slideshare.net/Splunk/threat-hunting-workshop-76322931
 
+https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
+
