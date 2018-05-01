@@ -27,3 +27,5 @@ https://posts.specterops.io/whats-in-a-name-ttps-in-info-sec-14f24480ddcc
 
 https://social.technet.microsoft.com/wiki/contents/articles/40242.build-the-attacker-s-playground.aspx
 
+https://www.slideshare.net/Splunk/threat-hunting-workshop-76322931
+
